@@ -16,3 +16,4 @@
 15. <a href="https://github.com/OWASP/joomscan">Joomscan</a>
 16. <a href="https://github.com/droope/droopescan">Droopescan</a>
 17. <a href="https://kali.tools/?p=4013">CloudFAIL</a>
+18. <a href="https://kali.tools/?p=3020">Cangibrina</a>
